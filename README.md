@@ -1,2 +1,2 @@
 # Flex-box-Css-projeto
-Projeto de curso CSS Flex-box  
+Projeto do curso CSS Flex-box  
